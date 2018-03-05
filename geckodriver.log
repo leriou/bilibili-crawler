@@ -1,0 +1,896 @@
+1520177743611	geckodriver	INFO	geckodriver 0.19.1
+1520177743618	geckodriver	INFO	Listening on 127.0.0.1:59165
+1520177748344	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.FFK3RB902glx"
+1520177752029	Marionette	INFO	Enabled via --marionette
+2018-03-04 23:35:53.048 plugin-container[61384:29388978] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:35:53.312 plugin-container[61384:29388978] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa2d7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520177753409	Marionette	INFO	Listening on port 59170
+2018-03-04 23:35:53.794 plugin-container[61385:29389071] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f0b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:35:53.926 plugin-container[61385:29389071] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9fa3, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:35:57.348 firefox-bin[61382:29388909] IMKInputSession [0x12a62fe50 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a62c040 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-04 23:35:57.442 firefox-bin[61382:29388909] IMKInputSession [0x12a62fe50 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a62c040 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1520177775562	geckodriver	INFO	geckodriver 0.19.1
+1520177775566	geckodriver	INFO	Listening on 127.0.0.1:59196
+1520177775841	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.mtKqGo3mP6YT"
+1520177776404	Marionette	INFO	Enabled via --marionette
+2018-03-04 23:36:17.299 plugin-container[61401:29389557] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:36:17.501 plugin-container[61401:29389557] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa2bb, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520177777721	Marionette	INFO	Listening on port 59201
+1520177777798	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-04 23:36:18.294 plugin-container[61402:29389645] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:36:18.454 plugin-container[61402:29389645] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9fd7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:36:24.522 firefox-bin[61400:29389462] IMKInputSession [0x12985a430 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x118e900a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-04 23:36:26.006 firefox-bin[61382:29388909] IMKInputSession [0x12a62fe50 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a62c040 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-04 23:36:26.037 firefox-bin[61382:29388909] IMKInputSession [0x12a62fe50 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a62c040 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-04 23:36:28.066 firefox-bin[61382:29388909] IMKInputSession [0x12a62fe50 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a62c040 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+2018-03-04 23:36:28.700 firefox-bin[61400:29389462] IMKInputSession [0x12985a430 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x118e900a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1520177895158	geckodriver	INFO	geckodriver 0.19.1
+1520177895162	geckodriver	INFO	Listening on 127.0.0.1:59288
+1520177895423	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.kamsppr1wAfr"
+1520177895940	Marionette	INFO	Enabled via --marionette
+2018-03-04 23:38:16.798 plugin-container[61435:29393066] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:38:17.021 plugin-container[61435:29393066] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa4bb, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520177897271	Marionette	INFO	Listening on port 59293
+1520177897351	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-04 23:38:17.754 plugin-container[61436:29393150] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:38:17.917 plugin-container[61436:29393150] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9dd7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:38:41.914 firefox-bin[61433:29392979] IMKInputSession [0x11a63f430 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x10fea9040 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-04 23:38:43.786 firefox-bin[61433:29392979] IMKInputSession [0x11a63f430 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x10fea9040 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-04 23:38:44.125 plugin-container[61442:29393452] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:38:44.285 plugin-container[61442:29393452] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9ddb, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:38:44.692 firefox-bin[61433:29392979] IMKInputSession [0x11a63f430 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x10fea9040 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-04 23:38:45.713 firefox-bin[61433:29392979] IMKInputSession [0x11a63f430 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x10fea9040 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-04 23:38:46.265 firefox-bin[61433:29392979] IMKInputSession [0x11a63f430 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x10fea9040 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-04 23:38:50.164 firefox-bin[61400:29389462] IMKInputSession [0x12985a430 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x118e900a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-04 23:38:52.029 firefox-bin[61400:29389462] IMKInputSession [0x12985a430 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x118e900a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1520178043720	geckodriver	INFO	geckodriver 0.19.1
+1520178043724	geckodriver	INFO	Listening on 127.0.0.1:59555
+1520178043892	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.t4rLUP6yYhlU"
+1520178044371	Marionette	INFO	Enabled via --marionette
+2018-03-04 23:40:45.188 plugin-container[61499:29398523] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:40:45.392 plugin-container[61499:29398523] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa4d7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520178045589	Marionette	INFO	Listening on port 59560
+1520178045652	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-04 23:40:46.150 plugin-container[61500:29398601] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:40:46.298 plugin-container[61500:29398601] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9ed7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520178076913	geckodriver	INFO	geckodriver 0.19.1
+1520178076917	geckodriver	INFO	Listening on 127.0.0.1:59734
+1520178077094	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.1A88y42SkzGb"
+1520178077604	Marionette	INFO	Enabled via --marionette
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+2018-03-04 23:41:19.055 plugin-container[61516:29399646] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa447, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:41:19.428 plugin-container[61516:29399646] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa4c7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:41:19.457 plugin-container[61517:29399756] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:41:19.619 plugin-container[61517:29399756] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa1db, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520178079676	Marionette	INFO	Listening on port 59739
+1520178079749	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-04 23:41:29.024 firefox-bin[61515:29399574] IMKInputSession [0x1349eba60 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11bda26a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-04 23:41:31.617 firefox-bin[61515:29399574] IMKInputSession [0x1349eba60 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11bda26a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-04 23:43:29.993 firefox-bin[61515:29399574] IMKInputSession [0x1349eba60 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11bda26a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-04 23:43:31.811 firefox-bin[61515:29399574] IMKInputSession [0x1349eba60 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11bda26a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1520178263196	geckodriver	INFO	geckodriver 0.19.1
+1520178263203	geckodriver	INFO	Listening on 127.0.0.1:60435
+1520178263370	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.z0evVv8rKS1W"
+1520178263852	Marionette	INFO	Enabled via --marionette
+2018-03-04 23:44:24.679 plugin-container[61568:29408006] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa143, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:44:24.876 plugin-container[61568:29408006] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa1db, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520178265111	Marionette	INFO	Listening on port 60442
+1520178265212	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-04 23:44:25.647 plugin-container[61569:29408093] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:44:25.834 plugin-container[61569:29408093] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9fd7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:44:32.310 firefox-bin[61567:29407928] IMKInputSession [0x121b74280 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x10f5370a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1520178282032	geckodriver	INFO	geckodriver 0.19.1
+1520178282036	geckodriver	INFO	Listening on 127.0.0.1:60576
+1520178282200	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.t46NBS21OfE5"
+1520178282645	Marionette	INFO	Enabled via --marionette
+2018-03-04 23:44:43.635 plugin-container[61588:29408699] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:44:43.840 plugin-container[61588:29408699] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa1a7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520178284186	Marionette	INFO	Listening on port 60581
+1520178284209	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-04 23:44:44.916 plugin-container[61589:29408787] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:44:45.298 plugin-container[61589:29408787] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9ebb, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1520178319714	geckodriver	INFO	geckodriver 0.19.1
+1520178319718	geckodriver	INFO	Listening on 127.0.0.1:60752
+1520178319877	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.fNO8CBqVWijW"
+1520178320341	Marionette	INFO	Enabled via --marionette
+2018-03-04 23:45:21.150 plugin-container[61615:29410128] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa433, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:45:21.334 plugin-container[61615:29410128] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa3b3, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520178321558	Marionette	INFO	Listening on port 60759
+1520178321585	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-04 23:45:22.125 plugin-container[61616:29410203] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:45:22.331 plugin-container[61616:29410203] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9ecb, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:45:29.177 firefox-bin[61587:29408625] IMKInputSession [0x12c4764c0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x1174df100 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-04 23:45:30.593 firefox-bin[61587:29408625] IMKInputSession [0x12c4764c0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x1174df100 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+2018-03-04 23:45:32.177 firefox-bin[61614:29410062] IMKInputSession [0x115976040 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11da4d700 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-04 23:45:42.494 firefox-bin[61614:29410062] IMKInputSession [0x115976040 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11da4d700 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-04 23:45:46.082 firefox-bin[61614:29410062] IMKInputSession [0x115976040 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11da4d700 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-04 23:45:47.277 firefox-bin[61614:29410062] IMKInputSession [0x115976040 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11da4d700 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-04 23:45:47.429 plugin-container[61622:29410512] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:45:47.578 plugin-container[61622:29410512] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa0c3, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:45:47.846 firefox-bin[61614:29410062] IMKInputSession [0x115976040 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11da4d700 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-04 23:45:48.331 firefox-bin[61614:29410062] IMKInputSession [0x115976040 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11da4d700 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1520178610493	geckodriver	INFO	geckodriver 0.19.1
+1520178610497	geckodriver	INFO	Listening on 127.0.0.1:61662
+1520178610659	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.BCpxyW3RgoKr"
+1520178611148	Marionette	INFO	Enabled via --marionette
+2018-03-04 23:50:12.009 plugin-container[62046:29424401] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa22b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:50:12.192 plugin-container[62046:29424401] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa2a7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520178612395	Marionette	INFO	Listening on port 61667
+1520178612480	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-04 23:50:12.925 plugin-container[62047:29424479] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:50:13.076 plugin-container[62047:29424479] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9edb, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520178669546	geckodriver	INFO	geckodriver 0.19.1
+1520178669550	geckodriver	INFO	Listening on 127.0.0.1:61920
+1520178669718	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.TwknDFCaD5vF"
+1520178670227	Marionette	INFO	Enabled via --marionette
+2018-03-04 23:51:11.218 plugin-container[62074:29427937] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:51:11.439 plugin-container[62074:29427937] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa2d7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520178671752	Marionette	INFO	Listening on port 61925
+1520178671812	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-04 23:51:12.225 plugin-container[62075:29428024] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:51:12.398 plugin-container[62075:29428024] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9ed7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520178699705	geckodriver	INFO	geckodriver 0.19.1
+1520178699709	geckodriver	INFO	Listening on 127.0.0.1:62082
+1520178699872	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.k18OTMmFcsb6"
+1520178700335	Marionette	INFO	Enabled via --marionette
+2018-03-04 23:51:41.140 plugin-container[62091:29429257] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:51:41.319 plugin-container[62091:29429257] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa2d7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520178701538	Marionette	INFO	Listening on port 62087
+1520178701626	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-04 23:51:42.079 plugin-container[62092:29429337] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:51:42.233 plugin-container[62092:29429337] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9fdf, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1520178721417	geckodriver	INFO	geckodriver 0.19.1
+1520178721421	geckodriver	INFO	Listening on 127.0.0.1:62213
+1520178721584	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.VXgcBUtnzcWt"
+1520178722072	Marionette	INFO	Enabled via --marionette
+2018-03-04 23:52:02.904 plugin-container[62113:29430574] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:52:03.103 plugin-container[62113:29430574] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa4d7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520178723309	Marionette	INFO	Listening on port 62220
+1520178723397	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-04 23:52:03.866 plugin-container[62114:29430665] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:52:04.024 plugin-container[62114:29430665] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9fcb, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520178744515	geckodriver	INFO	geckodriver 0.19.1
+1520178744519	geckodriver	INFO	Listening on 127.0.0.1:62344
+1520178744686	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.PwlcgEHxryjG"
+1520178745158	Marionette	INFO	Enabled via --marionette
+2018-03-04 23:52:25.966 plugin-container[62131:29431662] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:52:26.159 plugin-container[62131:29431662] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa3ab, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520178746383	Marionette	INFO	Listening on port 62349
+1520178746429	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-04 23:52:26.907 plugin-container[62132:29431746] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:52:27.056 plugin-container[62132:29431746] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9fd7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:52:36.697 firefox-bin[62130:29431590] IMKInputSession [0x1138801f0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11bdfdb80 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1520179040636	geckodriver	INFO	geckodriver 0.19.1
+1520179040643	geckodriver	INFO	Listening on 127.0.0.1:63236
+1520179040969	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.RJ6Sn4Ypp9KH"
+1520179041553	Marionette	INFO	Enabled via --marionette
+2018-03-04 23:57:22.415 plugin-container[62351:29443162] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:57:22.629 plugin-container[62351:29443162] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa2cb, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520179042954	Marionette	INFO	Listening on port 63241
+1520179043062	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-04 23:57:23.785 plugin-container[62352:29443282] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:57:24.058 plugin-container[62352:29443282] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1947, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520179111868	geckodriver	INFO	geckodriver 0.19.1
+1520179111876	geckodriver	INFO	Listening on 127.0.0.1:63478
+1520179112031	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.mv5CjOOBQWCJ"
+1520179112529	Marionette	INFO	Enabled via --marionette
+2018-03-04 23:58:33.507 plugin-container[62372:29463280] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa343, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:58:33.724 plugin-container[62372:29463280] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa3db, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520179113964	Marionette	INFO	Listening on port 63483
+1520179114042	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-04 23:58:34.311 plugin-container[62373:29463376] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:58:34.463 plugin-container[62373:29463376] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa0d7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:58:49.695 firefox-bin[62350:29443088] IMKInputSession [0x128a8e550 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12011e340 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-04 23:58:51.438 firefox-bin[62350:29443088] IMKInputSession [0x128a8e550 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12011e340 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1520179140615	geckodriver	INFO	geckodriver 0.19.1
+1520179140622	geckodriver	INFO	Listening on 127.0.0.1:63593
+1520179140796	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.QoP0nRh5nHNr"
+1520179141328	Marionette	INFO	Enabled via --marionette
+2018-03-04 23:59:02.288 plugin-container[62399:29464464] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa243, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:59:02.484 plugin-container[62399:29464464] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa2db, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520179142698	Marionette	INFO	Listening on port 63598
+1520179142773	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1520179164556	geckodriver	INFO	geckodriver 0.19.1
+1520179164560	geckodriver	INFO	Listening on 127.0.0.1:63701
+1520179164725	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.cLntY3FAcIs7"
+1520179165180	Marionette	INFO	Enabled via --marionette
+2018-03-04 23:59:25.988 plugin-container[62425:29466013] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:59:26.188 plugin-container[62425:29466013] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa2d7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520179166394	Marionette	INFO	Listening on port 63708
+1520179166469	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520179194032	geckodriver	INFO	geckodriver 0.19.1
+1520179194036	geckodriver	INFO	Listening on 127.0.0.1:63827
+1520179194213	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.pa58ee4Iqcif"
+1520179194684	Marionette	INFO	Enabled via --marionette
+2018-03-04 23:59:55.489 plugin-container[62453:29467669] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-04 23:59:55.665 plugin-container[62453:29467669] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa2d7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520179195888	Marionette	INFO	Listening on port 63832
+1520179195951	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520179286582	geckodriver	INFO	geckodriver 0.19.1
+1520179286586	geckodriver	INFO	Listening on 127.0.0.1:64152
+1520179286750	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.OK5udeGxuuwZ"
+1520179287215	Marionette	INFO	Enabled via --marionette
+2018-03-05 00:01:28.056 plugin-container[62474:29481817] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:01:28.248 plugin-container[62474:29481817] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa2d7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520179288478	Marionette	INFO	Listening on port 64158
+1520179288581	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520179332519	geckodriver	INFO	geckodriver 0.19.1
+1520179332523	geckodriver	INFO	Listening on 127.0.0.1:64341
+1520179332692	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.3DtU9y7lpeHZ"
+1520179333162	Marionette	INFO	Enabled via --marionette
+2018-03-05 00:02:14.064 plugin-container[62510:29485731] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:02:14.268 plugin-container[62510:29485731] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa2d7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520179334462	Marionette	INFO	Listening on port 64346
+1520179334538	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520179345152	geckodriver	INFO	geckodriver 0.19.1
+1520179345156	geckodriver	INFO	Listening on 127.0.0.1:64409
+1520179345327	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.JSBKgOIaqPJu"
+1520179345756	Marionette	INFO	Enabled via --marionette
+2018-03-05 00:02:26.588 plugin-container[62528:29486822] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:02:26.780 plugin-container[62528:29486822] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa2d7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520179347002	Marionette	INFO	Listening on port 64415
+1520179347077	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520179383945	geckodriver	INFO	geckodriver 0.19.1
+1520179383949	geckodriver	INFO	Listening on 127.0.0.1:64563
+1520179384122	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.PONXXg9pEXqr"
+1520179384567	Marionette	INFO	Enabled via --marionette
+2018-03-05 00:03:05.383 plugin-container[62546:29487953] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:03:05.585 plugin-container[62546:29487953] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa3d7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520179385847	Marionette	INFO	Listening on port 64569
+1520179385863	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520179492760	geckodriver	INFO	geckodriver 0.19.1
+1520179492764	geckodriver	INFO	Listening on 127.0.0.1:64963
+1520179492933	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.BfV99uVHzmw4"
+1520179493375	Marionette	INFO	Enabled via --marionette
+2018-03-05 00:04:54.197 plugin-container[62583:29495160] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:04:54.386 plugin-container[62583:29495160] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa2d7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520179494597	Marionette	INFO	Listening on port 64969
+1520179494681	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520180968540	geckodriver	INFO	geckodriver 0.19.1
+1520180968548	geckodriver	INFO	Listening on 127.0.0.1:53729
+1520180969258	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.8ncBLNt6hsEv"
+1520180969781	Marionette	INFO	Enabled via --marionette
+2018-03-05 00:29:30.709 plugin-container[63104:29567097] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:29:30.897 plugin-container[63104:29567097] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa3d7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520180971149	Marionette	INFO	Listening on port 53735
+1520180971191	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-05 00:29:31.696 plugin-container[63105:29567176] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:29:31.885 plugin-container[63105:29567176] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9ed7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:29:38.856 firefox-bin[63103:29567015] IMKInputSession [0x1175e7dc0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x10f27ca00 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-05 00:29:44.175 firefox-bin[63103:29567015] IMKInputSession [0x1175e7dc0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x10f27ca00 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1520181027203	geckodriver	INFO	geckodriver 0.19.1
+1520181027210	geckodriver	INFO	Listening on 127.0.0.1:54002
+1520181027378	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.JxvSYxNhxAJH"
+1520181027885	Marionette	INFO	Enabled via --marionette
+2018-03-05 00:30:28.834 plugin-container[63130:29569039] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa437, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:30:29.054 plugin-container[63130:29569039] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa4b3, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520181029296	Marionette	INFO	Listening on port 54008
+1520181029359	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-05 00:30:29.708 plugin-container[63131:29569112] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d0b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:30:29.869 plugin-container[63131:29569112] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9da3, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+2018-03-05 00:30:37.458 firefox-bin[63103:29567015] IMKInputSession [0x1175e7dc0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x10f27ca00 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1520181058116	geckodriver	INFO	geckodriver 0.19.1
+1520181058120	geckodriver	INFO	Listening on 127.0.0.1:54138
+1520181058296	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.F1kxUgB5A2BP"
+1520181058750	Marionette	INFO	Enabled via --marionette
+2018-03-05 00:30:59.667 plugin-container[63147:29570960] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:30:59.865 plugin-container[63147:29570960] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa4bb, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520181060160	Marionette	INFO	Listening on port 54143
+1520181060215	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-05 00:31:00.661 plugin-container[63148:29571049] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:31:00.876 plugin-container[63148:29571049] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa0d7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520181079418	geckodriver	INFO	geckodriver 0.19.1
+1520181079422	geckodriver	INFO	Listening on 127.0.0.1:54275
+1520181079602	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.NxUeiXQt6xF9"
+1520181080092	Marionette	INFO	Enabled via --marionette
+2018-03-05 00:31:21.139 plugin-container[63165:29571600] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:31:21.351 plugin-container[63165:29571600] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa2db, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520181081648	Marionette	INFO	Listening on port 54284
+1520181081673	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-05 00:31:22.101 plugin-container[63166:29571678] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d47, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:31:22.245 plugin-container[63166:29571678] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9ddf, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:31:27.128 firefox-bin[63164:29571526] IMKInputSession [0x128eee310 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x1213c5e20 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1520181096745	geckodriver	INFO	geckodriver 0.19.1
+1520181096752	geckodriver	INFO	Listening on 127.0.0.1:54365
+1520181096915	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.CtPEOei4VDdR"
+1520181097401	Marionette	INFO	Enabled via --marionette
+2018-03-05 00:31:38.437 plugin-container[63182:29572259] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:31:38.647 plugin-container[63182:29572259] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa4d7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520181099022	Marionette	INFO	Listening on port 54372
+1520181099043	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-05 00:31:39.464 plugin-container[63184:29572364] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:31:39.630 plugin-container[63184:29572364] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9fdb, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:31:45.771 firefox-bin[63103:29567015] IMKInputSession [0x1175e7dc0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x10f27ca00 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-05 00:31:47.312 firefox-bin[63103:29567015] IMKInputSession [0x1175e7dc0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x10f27ca00 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x10003,name=PAPZ::Msg_RequestContentRepaint) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x280002,name=PCompositorBridge::Msg_DidComposite) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1000B,name=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1520181162632	geckodriver	INFO	geckodriver 0.19.1
+1520181162636	geckodriver	INFO	Listening on 127.0.0.1:54621
+1520181162799	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.FclY4yCdaBFI"
+1520181163259	Marionette	INFO	Enabled via --marionette
+2018-03-05 00:32:44.084 plugin-container[63209:29576180] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa143, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:32:44.296 plugin-container[63209:29576180] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa1db, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520181164562	Marionette	INFO	Listening on port 54627
+1520181164642	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-05 00:32:44.935 plugin-container[63210:29576280] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:32:45.065 plugin-container[63210:29576280] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9ed7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520181219583	geckodriver	INFO	geckodriver 0.19.1
+1520181219587	geckodriver	INFO	Listening on 127.0.0.1:54835
+1520181219752	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.zdx4e7BRthQG"
+1520181220200	Marionette	INFO	Enabled via --marionette
+2018-03-05 00:33:41.016 plugin-container[63241:29578989] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:33:41.210 plugin-container[63241:29578989] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa4d7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520181221415	Marionette	INFO	Listening on port 54841
+1520181221493	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-05 00:33:41.884 plugin-container[63242:29579083] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:33:42.016 plugin-container[63242:29579083] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9ddb, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520181253117	geckodriver	INFO	geckodriver 0.19.1
+1520181253124	geckodriver	INFO	Listening on 127.0.0.1:54972
+1520181253284	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.dcf70ko6hxZd"
+1520181253796	Marionette	INFO	Enabled via --marionette
+1520181255093	Marionette	INFO	Listening on port 54978
+1520181255133	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-05 00:34:15.823 plugin-container[63259:29581097] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:34:15.958 plugin-container[63259:29581097] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa2a7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:34:16.732 plugin-container[63265:29581198] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:34:16.876 plugin-container[63265:29581198] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9ed7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:34:28.376 firefox-bin[63258:29581026] IMKInputSession [0x11d7ac8b0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x126303c40 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-05 00:34:30.117 firefox-bin[63258:29581026] IMKInputSession [0x11d7ac8b0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x126303c40 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-05 00:34:31.446 plugin-container[63266:29581454] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:34:31.591 plugin-container[63266:29581454] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa0db, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520181344043	geckodriver	INFO	geckodriver 0.19.1
+1520181344047	geckodriver	INFO	Listening on 127.0.0.1:55318
+1520181344205	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.JaM2Xv2t282V"
+1520181344658	Marionette	INFO	Enabled via --marionette
+2018-03-05 00:35:45.587 plugin-container[63296:29585589] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:35:45.797 plugin-container[63296:29585589] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa3cb, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520181346031	Marionette	INFO	Listening on port 55323
+1520181346060	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-05 00:35:46.424 plugin-container[63297:29585681] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:35:46.551 plugin-container[63297:29585681] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9fd7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520181400637	geckodriver	INFO	geckodriver 0.19.1
+1520181400645	geckodriver	INFO	Listening on 127.0.0.1:55543
+1520181400808	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.dNU6dd4KGrhd"
+1520181401285	Marionette	INFO	Enabled via --marionette
+2018-03-05 00:36:42.221 plugin-container[63313:29589103] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:36:42.431 plugin-container[63313:29589103] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa3c3, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520181402701	Marionette	INFO	Listening on port 55550
+1520181402721	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-05 00:36:43.178 plugin-container[63314:29589201] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:36:43.340 plugin-container[63314:29589201] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9ebf, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520181512634	geckodriver	INFO	geckodriver 0.19.1
+1520181512642	geckodriver	INFO	Listening on 127.0.0.1:55914
+1520181512797	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.ObjwrTmiFVBb"
+1520181513264	Marionette	INFO	Enabled via --marionette
+2018-03-05 00:38:34.163 plugin-container[63339:29608099] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:38:34.347 plugin-container[63339:29608099] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa2c3, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520181514572	Marionette	INFO	Listening on port 55919
+1520181514655	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520181596176	geckodriver	INFO	geckodriver 0.19.1
+1520181596184	geckodriver	INFO	Listening on 127.0.0.1:56198
+1520181596343	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.QoTmCXWNfjLd"
+1520181596816	Marionette	INFO	Enabled via --marionette
+2018-03-05 00:39:57.685 plugin-container[63387:29612699] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:39:57.888 plugin-container[63387:29612699] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa1a7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520181598115	Marionette	INFO	Listening on port 56203
+1520181598198	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520181625214	geckodriver	INFO	geckodriver 0.19.1
+1520181625218	geckodriver	INFO	Listening on 127.0.0.1:56320
+1520181625385	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.jnYdskZvoVqj"
+1520181625827	Marionette	INFO	Enabled via --marionette
+2018-03-05 00:40:26.633 plugin-container[63404:29614696] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:40:26.809 plugin-container[63404:29614696] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa2cf, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520181627046	Marionette	INFO	Listening on port 56325
+1520181627123	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1520181660973	geckodriver	INFO	geckodriver 0.19.1
+1520181660977	geckodriver	INFO	Listening on 127.0.0.1:56472
+1520181661141	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.glzNXMaaivpH"
+1520181661570	Marionette	INFO	Enabled via --marionette
+2018-03-05 00:41:02.394 plugin-container[63437:29616678] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:41:02.578 plugin-container[63437:29616678] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa4d7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520181662803	Marionette	INFO	Listening on port 56479
+1520181662877	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-05 00:41:03.238 plugin-container[63438:29616770] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:41:03.362 plugin-container[63438:29616770] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9ed7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520181680671	geckodriver	INFO	geckodriver 0.19.1
+1520181680675	geckodriver	INFO	Listening on 127.0.0.1:56570
+1520181680849	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.QdvKXZ73IzcM"
+1520181681301	Marionette	INFO	Enabled via --marionette
+2018-03-05 00:41:22.123 plugin-container[63455:29617641] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:41:22.311 plugin-container[63455:29617641] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa1a7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520181682536	Marionette	INFO	Listening on port 56576
+1520181682604	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-05 00:41:22.964 plugin-container[63456:29617737] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:41:23.087 plugin-container[63456:29617737] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa1d7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520181701491	geckodriver	INFO	geckodriver 0.19.1
+1520181701495	geckodriver	INFO	Listening on 127.0.0.1:56663
+1520181701663	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.wCdFyZNJe4FK"
+1520181702118	Marionette	INFO	Enabled via --marionette
+2018-03-05 00:41:43.079 plugin-container[63477:29618778] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:41:43.261 plugin-container[63477:29618778] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa4bb, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520181703538	Marionette	INFO	Listening on port 56668
+1520181703616	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520181710580	geckodriver	INFO	geckodriver 0.19.1
+1520181710584	geckodriver	INFO	Listening on 127.0.0.1:56717
+1520181710752	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.lEhYRusA8tKs"
+1520181711187	Marionette	INFO	Enabled via --marionette
+2018-03-05 00:41:52.039 plugin-container[63494:29619770] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:41:52.230 plugin-container[63494:29619770] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa2d7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520181712434	Marionette	INFO	Listening on port 56723
+1520181712492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520181738628	geckodriver	INFO	geckodriver 0.19.1
+1520181738634	geckodriver	INFO	Listening on 127.0.0.1:56825
+1520181738798	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.4ziBer9Q7XOw"
+1520181739250	Marionette	INFO	Enabled via --marionette
+2018-03-05 00:42:20.082 plugin-container[63524:29621786] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 00:42:20.293 plugin-container[63524:29621786] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa2c3, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520181740568	Marionette	INFO	Listening on port 56830
+1520181740645	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-05 00:42:39.424 firefox-bin[63454:29617570] IMKInputSession [0x11d118550 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x125603e20 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-05 00:42:45.719 firefox-bin[63436:29616604] IMKInputSession [0x116d5e280 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11f315a60 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1520213259652	geckodriver	INFO	geckodriver 0.19.1
+1520213259659	geckodriver	INFO	Listening on 127.0.0.1:58242
+1520213259837	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.01QW7Igk7PCN"
+1520213260379	Marionette	INFO	Enabled via --marionette
+2018-03-05 09:27:41.290 plugin-container[64247:29724569] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 09:27:41.490 plugin-container[64247:29724569] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa2d7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520213261737	Marionette	INFO	Listening on port 58247
+1520213261772	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1520213392741	geckodriver	INFO	geckodriver 0.19.1
+1520213392749	geckodriver	INFO	Listening on 127.0.0.1:58681
+1520213392924	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.ljceAZPOb8PQ"
+1520213393442	Marionette	INFO	Enabled via --marionette
+2018-03-05 09:29:54.404 plugin-container[64663:29733615] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 09:29:54.614 plugin-container[64663:29733615] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa3db, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520213394904	Marionette	INFO	Listening on port 58687
+1520213394959	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520219542560	geckodriver	INFO	geckodriver 0.19.1
+1520219542567	geckodriver	INFO	Listening on 127.0.0.1:54677
+1520219542718	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.QmM1PKXOiYnn"
+1520219543452	Marionette	INFO	Enabled via --marionette
+2018-03-05 11:12:25.043 plugin-container[65595:29867076] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 11:12:25.414 plugin-container[65595:29867076] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa2bb, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520219545730	Marionette	INFO	Listening on port 54682
+1520219545839	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 65595, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1520219799338	geckodriver	INFO	geckodriver 0.19.1
+1520219799345	geckodriver	INFO	Listening on 127.0.0.1:55678
+1520219799599	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.RxZtvZCur1hR"
+1520219800516	Marionette	INFO	Enabled via --marionette
+2018-03-05 11:16:41.847 plugin-container[65693:29874775] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 11:16:42.107 plugin-container[65693:29874775] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa2d3, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520219802376	Marionette	INFO	Listening on port 55687
+1520219802478	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-05 11:16:42.580 plugin-container[65694:29874871] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520219832184	geckodriver	INFO	geckodriver 0.19.1
+1520219832192	geckodriver	INFO	Listening on 127.0.0.1:55846
+1520219832376	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.IzWxkieQztED"
+1520219833081	Marionette	INFO	Enabled via --marionette
+2018-03-05 11:17:14.389 plugin-container[65713:29876695] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 11:17:14.742 plugin-container[65713:29876695] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa2b3, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 11:17:15.094 plugin-container[65714:29876778] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520219835171	Marionette	INFO	Listening on port 55852
+1520219835219	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-05 11:17:15.369 plugin-container[65714:29876778] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9faf, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520219880340	geckodriver	INFO	geckodriver 0.19.1
+1520219880347	geckodriver	INFO	Listening on 127.0.0.1:56122
+1520219880516	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.nLQkSGgj4Y0T"
+1520219881114	Marionette	INFO	Enabled via --marionette
+2018-03-05 11:18:02.559 plugin-container[65737:29878301] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa42f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 11:18:02.756 plugin-container[65737:29878301] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa4af, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520219883057	Marionette	INFO	Listening on port 56127
+1520219883119	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-05 11:18:03.516 plugin-container[65738:29878389] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 11:18:03.883 plugin-container[65738:29878389] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa0bb, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1520219921313	geckodriver	INFO	geckodriver 0.19.1
+1520219921320	geckodriver	INFO	Listening on 127.0.0.1:56364
+1520219921491	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.BSYGSxso2APD"
+1520219922095	Marionette	INFO	Enabled via --marionette
+2018-03-05 11:18:43.222 plugin-container[65763:29880188] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 11:18:43.478 plugin-container[65763:29880188] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa2b7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520219923767	Marionette	INFO	Listening on port 56370
+1520219923958	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-05 11:18:44.338 plugin-container[65764:29880295] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa143, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 11:18:44.643 plugin-container[65764:29880295] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa1bf, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 11:18:51.840 firefox-bin[65762:29880123] IMKInputSession [0x127abc3a0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11da45d00 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-05 11:19:03.072 firefox-bin[65762:29880123] IMKInputSession [0x127abc3a0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11da45d00 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-05 11:19:05.902 firefox-bin[65762:29880123] IMKInputSession [0x127abc3a0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11da45d00 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1520219960933	geckodriver	INFO	geckodriver 0.19.1
+1520219960941	geckodriver	INFO	Listening on 127.0.0.1:56613
+1520219961133	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.HORpA0tfEX3W"
+1520219961808	Marionette	INFO	Enabled via --marionette
+2018-03-05 11:19:23.051 plugin-container[65780:29880917] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa427, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 11:19:23.308 plugin-container[65780:29880917] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa363, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520219963976	Marionette	INFO	Listening on port 56619
+2018-03-05 11:19:24.018 plugin-container[65781:29881007] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520219964102	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-05 11:19:24.300 plugin-container[65781:29881007] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9fcf, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 11:19:54.113 firefox-bin[65779:29880827] IMKInputSession [0x1147a1670 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11c745ac0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+2018-03-05 11:20:01.746 firefox-bin[65762:29880123] IMKInputSession [0x127abc3a0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11da45d00 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-05 11:20:03.345 firefox-bin[65762:29880123] IMKInputSession [0x127abc3a0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11da45d00 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1520220032353	geckodriver	INFO	geckodriver 0.19.1
+1520220032361	geckodriver	INFO	Listening on 127.0.0.1:56891
+1520220032521	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.2sVjtEx0Jum8"
+1520220033175	Marionette	INFO	Enabled via --marionette
+2018-03-05 11:20:34.108 plugin-container[65801:29885787] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 11:20:34.367 plugin-container[65801:29885787] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa2d3, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520220034589	Marionette	INFO	Listening on port 56897
+1520220034678	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-05 11:20:35.104 plugin-container[65802:29885857] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa02f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 11:20:35.308 plugin-container[65802:29885857] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa0c7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520220066308	geckodriver	INFO	geckodriver 0.19.1
+1520220066315	geckodriver	INFO	Listening on 127.0.0.1:57085
+1520220066484	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.tIg8tZ1BWLJc"
+1520220067006	Marionette	INFO	Enabled via --marionette
+2018-03-05 11:21:08.107 plugin-container[65819:29887047] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 11:21:08.329 plugin-container[65819:29887047] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x198f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520220068615	Marionette	INFO	Listening on port 57091
+1520220068645	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-05 11:21:09.109 plugin-container[65820:29887145] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 11:21:09.240 plugin-container[65820:29887145] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9ed7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 11:21:54.510 firefox-bin[65800:29885705] IMKInputSession [0x132cfe280 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x124fa4160 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-05 11:21:55.961 firefox-bin[65800:29885705] IMKInputSession [0x132cfe280 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x124fa4160 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1520220388944	geckodriver	INFO	geckodriver 0.19.1
+1520220388953	geckodriver	INFO	Listening on 127.0.0.1:58356
+1520220389120	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.SaOQy9a1m3cB"
+1520220389816	Marionette	INFO	Enabled via --marionette
+2018-03-05 11:26:31.064 plugin-container[65863:29901079] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 11:26:31.357 plugin-container[65863:29901079] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa2d3, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520220391581	Marionette	INFO	Listening on port 58363
+1520220391642	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-05 11:26:32.069 plugin-container[65864:29901168] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 11:26:32.305 plugin-container[65864:29901168] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9ebf, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520220407453	geckodriver	INFO	geckodriver 0.19.1
+1520220407461	geckodriver	INFO	Listening on 127.0.0.1:58494
+1520220407627	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.LtozuOMorv9z"
+1520220408171	Marionette	INFO	Enabled via --marionette
+2018-03-05 11:26:49.118 plugin-container[65880:29901895] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 11:26:49.295 plugin-container[65880:29901895] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa2db, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520220409518	Marionette	INFO	Listening on port 58499
+1520220409589	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-05 11:26:49.996 plugin-container[65881:29901975] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520220510938	geckodriver	INFO	geckodriver 0.19.1
+1520220510946	geckodriver	INFO	Listening on 127.0.0.1:58809
+1520220511132	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.dmScgYObHAfd"
+1520220511635	Marionette	INFO	Enabled via --marionette
+2018-03-05 11:28:32.702 plugin-container[65953:29908875] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 11:28:32.881 plugin-container[65953:29908875] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa2d7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520220513164	Marionette	INFO	Listening on port 58815
+1520220513247	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+2018-03-05 11:29:51.851 firefox-bin[65862:29901008] IMKInputSession [0x131078e50 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11ac9bd60 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-03-05 11:29:53.688 firefox-bin[65862:29901008] IMKInputSession [0x131078e50 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11ac9bd60 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1520220644513	geckodriver	INFO	geckodriver 0.19.1
+1520220644522	geckodriver	INFO	Listening on 127.0.0.1:59188
+1520220644711	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.wGxXDCd78gVU"
+1520220645409	Marionette	INFO	Enabled via --marionette
+2018-03-05 11:30:47.069 plugin-container[66409:29919807] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 11:30:47.415 plugin-container[66409:29919807] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa2b7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520220647649	Marionette	INFO	Listening on port 59194
+1520220647746	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520220674710	geckodriver	INFO	geckodriver 0.19.1
+1520220674714	geckodriver	INFO	Listening on 127.0.0.1:59324
+1520220674882	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.Iwr5vSKAQyKa"
+1520220675339	Marionette	INFO	Enabled via --marionette
+2018-03-05 11:31:16.308 plugin-container[66432:29921754] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa42f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 11:31:16.477 plugin-container[66432:29921754] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa4ab, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520220676704	Marionette	INFO	Listening on port 59329
+1520220676750	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520220700285	geckodriver	INFO	geckodriver 0.19.1
+1520220700289	geckodriver	INFO	Listening on 127.0.0.1:59420
+1520220700466	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.Yvtc2Ughim50"
+1520220700938	Marionette	INFO	Enabled via --marionette
+2018-03-05 11:31:41.946 plugin-container[66453:29923611] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 11:31:42.112 plugin-container[66453:29923611] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa4bf, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520220702355	Marionette	INFO	Listening on port 59426
+1520220702434	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520220713641	geckodriver	INFO	geckodriver 0.19.1
+1520220713645	geckodriver	INFO	Listening on 127.0.0.1:59490
+1520220713715	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/_c/37_qc7nj0992tbpc7ys6pj0h0000gn/T/rust_mozprofile.96eFRCr08DJc"
+1520220714170	Marionette	INFO	Enabled via --marionette
+2018-03-05 11:31:55.031 plugin-container[66472:29924706] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 11:31:55.190 plugin-container[66472:29924706] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa2d7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1520220715375	Marionette	INFO	Listening on port 59498
+1520220715470	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-05 11:31:55.987 plugin-container[66473:29924790] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-05 11:31:56.170 plugin-container[66473:29924790] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9ea7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
