@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-import urllib.request
+import requests
 import os
 import time
 from bs4 import BeautifulSoup
 from selenium import webdriver
-from pymongo import MongoClient
+from pymongo import MongoClient,  ASCENDING
 import random
 
 
@@ -27,6 +27,7 @@ class Tools:
     
     def set_cache(self, db, collection):
         self.cache = self.mongo[db][collection]
+        self.create_idx(self.cache, ["_url"])
     
     # 从url获取页面内容
     def get_html(self, url):
@@ -61,7 +62,7 @@ class Tools:
         return self.browser.page_source
 
     def mongo_set(self, url, data):
-        r = self.cache.find_one({"_url": url})
+        r = self.mongo_get(url)
         if r:
             self.cache.update({"_url":url}, {"$set":data})
         else:
@@ -75,6 +76,17 @@ class Tools:
 
     def mongo_clear_cache(self):
         self.cache.update_many({},{"$set":{"text":""}})
+    
+    def create_idx(self, db, indexs):
+        db_idx = db.index_information()
+        idx_list = [db_idx[j]["key"][0][0] for j in db_idx]
+        for idx_field in indexs:
+            if not idx_list.__contains__(idx_field):
+                db.create_index(
+                    [(idx_field, ASCENDING)], 
+                    background=True,
+                    name=idx_field + "_idx", 
+                    unique=True)
 
     # 从html字符串获取dom对象
     def get_dom_by_html(self,html):
@@ -128,19 +140,19 @@ class Tools:
     def get_time(self):
         return self.time2str(time.time())
     
-    def str2time(self,i):
+    def str2time(self, i):
         return time.mktime(time.strptime(i,"%Y-%m-%d %H:%M:%S"))
     
-    def time2str(self,moment):
+    def time2str(self, moment):
         return time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(moment))
         
     def cost(self, log=''):
         tmp = time.time()
         total, last = tmp - self.start, tmp - self.end
         self.end = tmp
-        self.logging("INFO"," %s cost time: %s s, until lastest %s s" % (log, total, last))
+        self.logging("INFO","%s cost time: %s s, until lastest %s s" % (log, total, last))
 
-    def logging(self,level,msg):
+    def logging(self, level, msg):
         print("%s [%s]: %s" % (self.get_time(),level,msg))
 
     def get_random_num(self, start=0, end=1):
